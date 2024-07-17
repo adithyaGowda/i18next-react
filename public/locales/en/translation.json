@@ -1,0 +1,8 @@
+{
+    "greeting": "Hello, Welcome!",
+    "description": {
+      "line1": "Welcome to the world of beautiful souls - <1>{{by}}</1>",
+      "line2":
+        "Humanity is everywhere and people loves to take care of one another"
+    }
+  }
